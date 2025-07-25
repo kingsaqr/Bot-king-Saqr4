@@ -115,8 +115,7 @@
 1. **استنساخ المستودع:**
 
     ```bash
-    git clone https://github.com/luckytechhub1/LuckyTechHub-Bot.git
-    cd LuckyTechHub-Bot
+    git clone https://youtube.com/@king_saqr_1?si=e1eR_9Thjb3Z30ON
     ```
 
 2. **تثبيت التبعيات:**
