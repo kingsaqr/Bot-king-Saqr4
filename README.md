@@ -1,36 +1,38 @@
-# 🤖 هذا بوت واتساب مُصمم باستخدام مكتبة Baileys لإدارة المجموعات، ويتضمن ميزات مثل وضع علامات على جميع الأعضاء، وكتم الصوت/إلغاء كتمه، وغيرها الكثير. صُمم لمساعدة المشرفين على إدارة مجموعات واتساب بكفاءة.
+# 🤖 Knight Bot
+
+This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=KingSaqr-Bot;Whatsapp+S+A+Q+R++" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@king_saqr_1?si=e1eR_9Thjb3Z30ON"> 
-    <img src="https://github.com/luckytechhub1/LuckyTechHub-Bot/blob/main/assets/bot_image.jpg" alt="قناة صقر على اليوتيوب" height="300"> 
+  <a href="https://youtube.com/@mr_unique_hacker"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
 ---
 
-## 🚀 خطوات النشر
+## 🚀 Steps to Deploy
 
-### خطوة 1: شوكة المستودع
+### Step 1: Fork the Repository
 
-انقر على الزر أدناه لتقسيم مستودع King Saqr Bot إلى حساب GitHub الخاص بك:
+Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/luckytechhub1/LuckyTechHub-Bot/fork">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
 
 ---
 
-### خطوة 2: احصل على رمز الزوج
+### Step 2: Get Pair Code
 
-انشر البوت واربطه بسهولة بحسابك على واتساب عبر رمز الزوج. انقر على الزر أدناه لنشر البوت على Replit.
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
   <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
@@ -45,146 +47,148 @@
 </div>
 
 
-### بعد الحصول على ملف creds.json، قم بتحميله إلى مجلد الجلسة
+### After getting creds.json file, upload it to session folder
 
 ---
 
-### خطوة 3: نشر الآن
+### Step 3: Deploy Now
 
-لمزيد من التخصيص وإرشادات الإعداد، انقر فوق الزر أدناه:
+For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://kingsaqrsami.blogspot.com/2024/03/whatsapp-king-saqr.html?m=1">
-    <img src="https://img.shields.io/badge/Blogger KING SAQR-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  <a href="https://youtu.be/-oz_u1iMgf8">
+    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="قناة الملك صقر على الواتساب"/>
+    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
 
-### انشر الآن على اللوحة أدناه
+### Deploy Now on Below Panel
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/King Saqr Bot-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 </div>
 
-### انضم إلينا
+### Join Us
 
 <div align="center">
-  <a href="https://t.me/+T_8QE67Pn6tkMzNk">
-    <img src="https://img.shields.io/badge/SAQR%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="قناتي على التلجرام"/>
+  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VbAuIHpCnA81pI0Dza0j">
-    <img src="https://img.shields.io/badge/SAQR%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="قناة على الواتساب"/>
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
 ---
 
-## ⚙️ سمات
+## ⚙️ Features
 
-- **إضافة وسم لجميع أعضاء المجموعة** باستخدام أمر `.tagall`
-- **استخدام مقيد من قِبل الإدارة** (يُسمح فقط لمديري المجموعة باستخدام أوامر مُحددة)
-- **ألعاب** مثل لعبة "إكس أو" لتفاعل جماعي تفاعلي
-- **تحويل النص إلى كلام** باستخدام أمر `.tts`
-- **إنشاء ملصقات** باستخدام أمر `.sticker`
-- **كشف الروابط غير المرغوب فيها** لضمان سلامة المجموعة
-- **تحذير وإدارة أعضاء المجموعة** باستخدام تحكم الإدارة
+- **Tag all group members** with the `.tagall` command
+- **Admin restricted usage** (Only group admins can use certain commands)
+- **Games** like Tic-Tac-Toe for interactive group engagement
+- **Text-to-Speech** with `.tts`
+- **Sticker creation** with `.sticker`
+- **Anti-link detection** for group safety
+- **Warn and manage group members** with admin control
 
 ---
 
-## 📖 نبذة
+## 📖 About
 
-يساعد بوت واتساب King Saqr مسؤولي المجموعات بتزويدهم بأدوات لإدارة مجموعات واتساب الكبيرة بكفاءة. يستخدم البوت مكتبة Baileys للتفاعل مع واجهة برمجة تطبيقات واتساب ويب، ويدعم ميزات الأجهزة المتعددة.
+The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
-يتميز البوت بخفة وزنه وسهولة تخصيصه لإضافة المزيد من الأوامر حسب احتياجاتك. يعمل البوت في بيئة Node.js، ويوفر مصادقة قائمة على رمز الاستجابة السريعة لربط حساب واتساب الخاص بك.
+It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
---
+---
 
-## 🛠️ الإعداد والتثبيت
+## 🛠️ Setup & Installation
 
-### المتطلبات الأساسية
+### Prerequisites
 
-- تثبيت Node.js على نظامك
-- تثبيت Git (لاستنساخ المستودع)
+- Node.js installed on your system
+- Git installed (for cloning the repository)
 
-### الإعداد خطوة بخطوة
+### Step-by-Step Setup
 
-1. **استنساخ المستودع:**
+1. **Clone the repository:**
 
     ```bash
-    git clone https://youtube.com/@king_saqr_1?si=e1eR_9Thjb3Z30ON
+    git clone https://github.com/mruniquehacker/Knightbot-MD.git
+    cd Knightbot-MD
     ```
 
-2. **تثبيت التبعيات:**
+2. **Install the dependencies:**
 
     ```bash
     npm install
     ```
 
-3. **تشغيل البوت:**
+3. **Run the bot:**
 
     ```bash
     node index.js
     ```
 
-4. **امسح رمز الاستجابة السريعة:**
+4. **Scan the QR code:**
 
-    بمجرد تشغيل البوت، سيظهر رمز الاستجابة السريعة (QR) في الجهاز. امسح هذا الرمز باستخدام ميزة "الأجهزة المرتبطة" في واتساب لربط حساب واتساب الخاص بك بالبوت.
-
----
-
-
-## 📄 رخصة
-
-هذا المشروع مرخص بموجب [MIT License](https://opensource.org/licenses/MIT) - انظر [LICENSE](https://github.com/luckytechhub1/LuckyTechHub-Bot/blob/main/LICENSE) الملف للحصول على التفاصيل.
+    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
 
 ---
 
-## 🙌 المساهمات
 
-نرحب بالمساهمات والإصدارات وطلبات الميزات! لا تترددوا في الاطلاع على [issues page](https://github.com/luckytechhub1/LuckyTechHub-Bot/issues).
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
 
 ---
 
-## 🌟 أظهر دعمك
-إذا أعجبك هذا المشروع، يرجى إعطائه [⭐️ star on GitHub](https://github.com/luckytechhub1/LuckyTechHub-Bot)!
+## 🙌 Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+
+---
+
+## 🌟 Show your support
+
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
 
 
-## الاعتمادات
+## Credits
 
-- [Lucky218](https://github.com/luckytechhub1)
+- [Professor](https://github.com/mruniquehacker)
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
 
 ---
 
-## ⚠️ تحذير هام
+## ⚠️ Important Warning
 
-**ملاحظة:** هذا البوت مُصمم لأغراض تعليمية فقط. هذا ليس بوت واتساب رسميًا. قد يؤدي استخدام هذا البوت إلى حظر حسابك على واتساب. استخدمه على مسؤوليتك الخاصة. لن يتحمل المطورون مسؤولية أي عواقب أو حظر للحساب قد يحدث أثناء استخدام هذا البوت.
+**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
 
-## 📝 قانوني
+## 📝 Legal
 
-- هذا المشروع غير تابع لشركة واتساب أو أي من الشركات التابعة لها، ولا مُرخص لها، ولا مدعوم، ولا مدعوم من قِبلها، ولا مُعتمد منها.
-- هذا برنامج مستقل وغير رسمي. استخدمه على مسؤوليتك الخاصة.
-- لا تُرسل رسائل غير مرغوب فيها إلى الآخرين باستخدام هذا البوت.
-- لا تستخدم هذا البوت لإرسال رسائل جماعية أو لأغراض غير قانونية.
-- لا يتحمل المطورون أي مسؤولية عن أي سوء استخدام أو ضرر ناتج عن هذا البرنامج.
+- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
+- This is an independent and unofficial software. Use at your own risk.
+- Do not spam people with this bot.
+- Do not use this bot to send bulk messages or for illegal purposes.
+- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
-### الترخيص
-هذا المشروع مُرخص بموجب ترخيص معهد ماساتشوستس للتكنولوجيا.  مع ذلك، يجب عليك:
-- استخدام هذا البرنامج بما يتوافق مع جميع القوانين واللوائح المعمول بها
-- تضمين إشعارات الترخيص وحقوق النشر الأصلية
-- الإشارة إلى المؤلفين الأصليين
-- عدم استخدامه لأغراض غير مرغوب فيها أو ضارة
+### License
+This project is licensed under the MIT License. However, you must:
+- Use this software in compliance with all applicable laws and regulations
+- Include original license and copyright notices
+- Credit original authors
+- Not use for spam or malicious purposes
 
-## 📜 إشعار حقوق النشر
+## 📜 Copyright Notice
 
-جميع الحقوق محفوظة لشركة King Saqr الملك صقر © 2025.
+Copyright (c) 2024 Professor. All rights reserved.
 
-يحتوي هذا المشروع على شيفرة من مشاريع مفتوحة المصدر متنوعة:
-- Baileys (رخصة معهد ماساتشوستس للتكنولوجيا)
-- مكتبات أخرى مدرجة في package.json
+This project contains code from various open source projects:
+- Baileys (MIT License)
+- Other libraries as listed in package.json
