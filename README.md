@@ -21,7 +21,7 @@
 انقر على الزر أدناه لتقسيم مستودع King Saqr Bot إلى حساب GitHub الخاص بك:
 
 <div align="center">
-  <a href="https://github.com/luckytechhub1/LuckyTechHub-Bot/fork">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
